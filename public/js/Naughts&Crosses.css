@@ -1,0 +1,26 @@
+body{
+
+background-image:url("http://i.dailymail.co.uk/i/pix/2012/03/02/article-2109071-02E5DDD20000044D-817_964x591.jpg");
+ background-repeat: no-repeat;
+ background-position: center;
+ background-size: cover;
+ font-family:Verdana ;
+ font-size: 16px;
+ };
+
+.board{
+ width: 600px;
+  background-color: #44534C;
+  height: 600px;
+  margin: 0 auto;
+  padding-right: 10px;
+  padding-left: 10px;
+  padding-top: 10px;
+ };
+
+.entry_slot {
+  width: 150px;
+  height: 150px;
+};
+
+
